@@ -12,7 +12,13 @@ sections:
       text: |        
         <span style="color: #808080; font-weight: bold;">Science Institute and Faculty of Physical Sciences University of Iceland </span>
         
-        Advancement of theory and methodology for atomic scale simulations, with broad ranging applications for chemistry and physical chemistry, reaction rate theory, adsorption spectroscopy, and magnetism, to name a few.
+        Advancement of theory and methodology for atomic scale simulations, with broad ranging applications for chemistry 
+        and physical chemistry, reaction rate theory, adsorption spectroscopy, and magnetism, to name a few.
+        
+        The lab includes the following research groups:
+        - [Dr. Elvar Örn Jónsson](https://iris.rais.is/en/persons/elvar-%C3%B6rn-j%C3%B3nsson)
+        - [Dr. Gianluca Levi](https://gialev.github.io/)  
+        - [Prof. Hannes Jónsson](https://hj.hi.is/indexE.html)
       image:
         filename: cover.webp
 # News Block 
