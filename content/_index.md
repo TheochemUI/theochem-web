@@ -8,16 +8,11 @@ sections:
   - block: hero
     content:
       title: |
-        Electronic Excitations and Molecular Dynamics 
+        Theoretical Chemistry Lab 
       text: |        
-        Research group at the Science Institute and Faculty of Physical Sciences of the University of Iceland. 
+        <span style="color: #808080; font-weight: bold;">Science Institute and Faculty of Physical Sciences University of Iceland </span>
         
-        We develop and apply novel computational methods based on density functional theory to model electronic 
-        excitations in molecular and condensed-phase systems. The applications focus on photoactive 
-        organic and transition metal compounds for solar energy conversion and photocatalysis. Using atomic scale 
-        simulations of light-driven chemical dynamics, our goal is to bridge underlying mechanisms with direct observations 
-        from ultrafast experiments conducted at synchrotrons and X-ray free electron lasers with our experimental 
-        collaborators at the Technical University of Denmark.
+        Advancement of theory and methodology for atomic scale simulations, with broad ranging applications for chemistry and physical chemistry, reaction rate theory, adsorption spectroscopy, and magnetism, to name a few.
       image:
         filename: cover.webp
 # News Block 
