@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Christian Schäfer | Gianluca Levi&#39;s research webpage</title>
+    <title>Christian Schäfer | Teochem webpage</title>
     <link>https://example.com/author/christian-schafer/</link>
       <atom:link href="https://example.com/author/christian-schafer/index.xml" rel="self" type="application/rss+xml" />
     <description>Christian Schäfer</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hud6209fa0764823b87d5ea48ec267c043_175783_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Christian Schäfer</title>
       <link>https://example.com/author/christian-schafer/</link>
     </image>

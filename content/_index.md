@@ -19,7 +19,7 @@ sections:
         from ultrafast experiments conducted at synchrotrons and X-ray free electron lasers with our experimental 
         collaborators at the Technical University of Denmark.
       image:
-        filename: molecular_movie_cropped-low_res.gif
+        filename: cover.webp
 # News Block 
 #  - block: collection
 #    content:
