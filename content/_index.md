@@ -8,19 +8,22 @@ sections:
   - block: hero
     content:
       title: |
-        Theoretical Chemistry Lab 
+        <span style="font-size: 32px;"> Theoretical Chemistry Lab </span> 
       text: |        
-        <span style="color: #808080; font-weight: bold;">Science Institute and Faculty of Physical Sciences University of Iceland </span>
+        <span style="color: #808080; font-weight: bold; font-size: 20px;">Science Institute and Faculty of Physical Sciences of the University of Iceland </span>
         
-        Advancement of theory and methodology for atomic scale simulations, with broad ranging applications for chemistry 
-        and physical chemistry, reaction rate theory, adsorption spectroscopy, and magnetism, to name a few.
+        <span style="font-size: 20px;"> The Theochem lab at the University of Iceland is dedicated to advancing the theory and methodology of atomic-scale modelling. We develop and
+        apply innovative computational techniques, including methods for calculating reaction pathways and rates, density functional based 
+        approaches for ground and excited electronic states, multiscale approaches for condensed-phase systems, and ultrafast and long-timescale 
+        molecular dynamics simulation strategies. The areas of application range from surface catalytic processes, such as CO<sub>2</sub> electrochemical 
+        reduction, to light-induced processes in photoactive molecular and condensed-phase systems for solar energy conversion. </span> 
         
-        The lab includes the following research groups:
-        - [Dr. Elvar Örn Jónsson](https://iris.rais.is/en/persons/elvar-%C3%B6rn-j%C3%B3nsson)
+        <span style="font-size: 24px;"> The Theochem lab includes the following research groups: </span> 
+        - [Dr. Elvar Örn Jónsson](https://eojgroup.netlify.app/home/)
         - [Dr. Gianluca Levi](https://gialev.github.io/)  
         - [Prof. Hannes Jónsson](https://hj.hi.is/indexE.html)
-      image:
-        filename: cover.webp
+      #image:
+      #  filename: cover.webp
 # News Block 
 #  - block: collection
 #    content:
